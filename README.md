@@ -1,5 +1,4 @@
 
-
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!-- Stats Dashboard -->
@@ -34,6 +33,15 @@
 > ![InfluxDB Badge](https://img.shields.io/badge/-InfluxDB-3B4252?style=flat&logo=influxdb&logoColor=88C0D0)
 > ![Grafana Badge](https://img.shields.io/badge/-Grafana-3B4252?style=flat&logo=grafana&logoColor=88C0D0)
 > ![AWS Badge](https://img.shields.io/badge/-AWS-3B4252?style=flat&logo=amazon&logoColor=BF616A)
+
+###### Development Tools & Environments
+> ![Code Composer Studio Badge](https://img.shields.io/badge/-Code%20Composer%20Studio-3B4252?style=flat&logo=texasinstruments&logoColor=88C0D0)
+> ![LATEX Badge](https://img.shields.io/badge/-LATEX-3B4252?style=flat&logo=latex&logoColor=D08770)
+> ![Adobe Photoshop Badge](https://img.shields.io/badge/-Adobe%20Photoshop-3B4252?style=flat&logo=adobephotoshop&logoColor=BF616A)
+
+###### Hardware Platforms
+> ![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-3B4252?style=flat&logo=raspberrypi&logoColor=BF616A)
+> ![Arduino Badge](https://img.shields.io/badge/-Arduino-3B4252?style=flat&logo=arduino&logoColor=A3BE8C)
 
 <br>
 </details>
