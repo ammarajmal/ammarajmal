@@ -17,13 +17,6 @@
   </a> 
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ammarajmal/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ammarajmal&theme=nord&&column=9&row=1" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ My Toolbox
