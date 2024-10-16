@@ -1,4 +1,3 @@
-
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!-- Stats Dashboard -->
@@ -21,7 +20,7 @@
 ### 🛠️ My Toolbox
 
 <details>
-  <summary><strong> Languages & Libraries </strong></summary>
+  <summary><strong>Languages & Libraries</strong></summary>
   <br>
   
 ![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B)
@@ -29,19 +28,42 @@
 ![MATLAB Badge](https://img.shields.io/badge/-MATLAB-3B4252?style=flat&logo=mathworks&logoColor=81A1C1)
 ![ROS Badge](https://img.shields.io/badge/-ROS-3B4252?style=flat&logo=ros&logoColor=88C0D0)
 
-###### Databases & Platforms
-> ![InfluxDB Badge](https://img.shields.io/badge/-InfluxDB-3B4252?style=flat&logo=influxdb&logoColor=88C0D0)
-> ![Grafana Badge](https://img.shields.io/badge/-Grafana-3B4252?style=flat&logo=grafana&logoColor=88C0D0)
-> ![AWS Badge](https://img.shields.io/badge/-AWS-3B4252?style=flat&logo=amazon&logoColor=BF616A)
+###### AI & Machine Learning
+![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-3B4252?style=flat&logo=tensorflow&logoColor=FF6F00)
+![Scikit-Learn Badge](https://img.shields.io/badge/-Scikit--Learn-3B4252?style=flat&logo=scikit-learn&logoColor=F7931E)
+![SciPy Badge](https://img.shields.io/badge/-SciPy-3B4252?style=flat&logo=scipy&logoColor=8CA1AF)
+![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-3B4252?style=flat&logo=matplotlib&logoColor=3E7A8C)
+![Pandas Badge](https://img.shields.io/badge/-Pandas-3B4252?style=flat&logo=pandas&logoColor=150458)
+![Numpy Badge](https://img.shields.io/badge/-NumPy-3B4252?style=flat&logo=numpy&logoColor=013243)
+![OpenCV Badge](https://img.shields.io/badge/-OpenCV-3B4252?style=flat&logo=opencv&logoColor=5C3EE8)
+![Jupyter Badge](https://img.shields.io/badge/-Jupyter-3B4252?style=flat&logo=jupyter&logoColor=F37626)
 
-###### Development Tools & Environments
-> ![Code Composer Studio Badge](https://img.shields.io/badge/-Code%20Composer%20Studio-3B4252?style=flat&logo=texasinstruments&logoColor=88C0D0)
-> ![LATEX Badge](https://img.shields.io/badge/-LATEX-3B4252?style=flat&logo=latex&logoColor=D08770)
-> ![Adobe Photoshop Badge](https://img.shields.io/badge/-Adobe%20Photoshop-3B4252?style=flat&logo=adobephotoshop&logoColor=BF616A)
+###### Databases & Storage Solutions
+![MySQL Badge](https://img.shields.io/badge/-MySQL-3B4252?style=flat&logo=mysql&logoColor=FF6F00)
+![InfluxDB Badge](https://img.shields.io/badge/-InfluxDB-3B4252?style=flat&logo=influxdb&logoColor=88C0D0)
 
-###### Hardware Platforms
-> ![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-3B4252?style=flat&logo=raspberrypi&logoColor=BF616A)
-> ![Arduino Badge](https://img.shields.io/badge/-Arduino-3B4252?style=flat&logo=arduino&logoColor=A3BE8C)
+###### Monitoring
+![Grafana Badge](https://img.shields.io/badge/-Grafana-3B4252?style=flat&logo=grafana&logoColor=88C0D0)
+
+###### Development Tools
+![Git Badge](https://img.shields.io/badge/-Git-3B4252?style=flat&logo=git&logoColor=DE4C36)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-3B4252?style=flat&logo=github&logoColor=181717)
+![Slack Badge](https://img.shields.io/badge/-Slack-3B4252?style=flat&logo=slack&logoColor=4A154B)
+![Discord Badge](https://img.shields.io/badge/-Discord-3B4252?style=flat&logo=discord&logoColor=5865F2)
+
+###### IDEs & Collaboration Platforms
+![VSCode Badge](https://img.shields.io/badge/-VSCode-3B4252?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![RStudio Badge](https://img.shields.io/badge/-RStudio-3B4252?style=flat&logo=rstudio&logoColor=75AADB)
+![Atom Badge](https://img.shields.io/badge/-Atom-3B4252?style=flat&logo=atom&logoColor=66595C)
+![Google Colab Badge](https://img.shields.io/badge/-Google%20Colab-3B4252?style=flat&logo=googlecolab&logoColor=F9AB00)
+
+###### Photography & Photo Editing
+![Adobe Photoshop Badge](https://img.shields.io/badge/-Adobe%20Photoshop-3B4252?style=flat&logo=adobephotoshop&logoColor=31A8FF)
+![Lightroom Badge](https://img.shields.io/badge/-Lightroom-3B4252?style=flat&logo=adobelightroom&logoColor=00C8FF)
+
+###### Microcontrollers & IoT
+![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-3B4252?style=flat&logo=raspberrypi&logoColor=A22846)
+![Arduino Badge](https://img.shields.io/badge/-Arduino-3B4252?style=flat&logo=arduino&logoColor=00979D)
 
 <br>
 </details>
@@ -60,3 +82,4 @@ I’m passionate about applying advanced technology to solve complex urban probl
 - [X (formerly Twitter)](https://www.x.com/ammarajmal)
 
 ---
+
