@@ -2,7 +2,7 @@
 
 I’m **Ammar Ajmal**!
 
-I am a **PhD Candidate** at **Chung-Ang University** in **Smart Cities** and a **Graduate Researcher** at the **Smart Infrastructure Technology Lab**. I specialize in **Autonomous Visual Infrastructure Inspection Systems**, **AI**, and **IoT** for **structural health monitoring**. I also serve as an **Assistant Professor** at **Bahria University**, with over **11 years** of teaching experience.
+I am a PhD Candidate at Chung-Ang University in Smart Cities and a Graduate Researcher at the Smart Infrastructure Technology Lab. I specialize in Autonomous Visual Infrastructure Inspection Systems, AI, and IoT for Structural Health Monitoring. I also serve as an Assistant Professor at Bahria University, with over 11 years of teaching experience.
 
 I’m passionate about applying advanced technology to solve complex urban problems and create smarter, more sustainable cities.
 
@@ -28,7 +28,7 @@ I’m passionate about applying advanced technology to solve complex urban probl
 ### 🛠️ My Toolbox
 
 <details>
-  <summary><strong>Languages & Libraries</strong></summary>
+  <summary><strong>Languages & Libraries</strong> <sub> (click to expand) </sub></summary>
   <br>
 
 ![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B)
